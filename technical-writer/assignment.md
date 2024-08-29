@@ -55,7 +55,7 @@ Example output:
 
 If you use the `logs` command in the example above, the information is outputted to your terminal.
 
-To explore the logs using `less`, use the following command:
+Alternatively, use the following command to explore the logs using `less`:
 
 ```shell
 kubectl logs <pod-name> --namespace <namespace-name> | less
