@@ -1,5 +1,7 @@
 # Debug Operations in Kubernetes
 
+This article describes common commands that can be used to debug your Kubernetes clusters.
+
 You can use the kubectl Command Line Interface (CLI) to interact with Kubernetes and query the state of your cluster resources.
 
 When you issue commands using kubectl, the requests are sent to the Kubernetes API server to retrieve information about your cluster resources.
