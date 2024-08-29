@@ -87,7 +87,7 @@ Replace `<pod-name>`, `<namespace-name>`, and `<clone-name>` with your chosen po
 
 If the command is successful, a terminal session opens inside the cloned pod.
 
-You can now interact with the pod without affecting the original and the session will not terminate if an error occurs inside the container.
+You can now interact with this pod without affecting the original and the session will not terminate if an error occurs inside the container.
 
 ## References
 
