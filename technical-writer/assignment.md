@@ -92,5 +92,5 @@ You can now interact with this pod without affecting the original and the sessio
 ## References
 
 - [What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/)
-- [Set your default namespace](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/#setting-the-namespace-preference)
+- [Set your default kubectl namespace](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/#setting-the-namespace-preference)
 - [View the kubectl command reference](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-strong-getting-started-strong-)
